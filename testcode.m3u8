@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/0ZdW9As.png" group-title="Undefined",3 Plus (1080p)
+https://mfe01.tring.al/delta/106/out/u/896_3.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL;AM;BG;FR;GR;IT;NL;SK;TR" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious;FRANCE;ITALY",Angel TV Europe (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="Undefined;FRANCE",Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h02/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Bubble TV
+https://mfe01.tring.al/delta/106/out/u/1118_3.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="News",Euronews Albania (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AF;AL;KH" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General;FRANCE",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General;FRANCE",KBS World (720p)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/rL2v9pM.png" group-title="News",Kanali 7 (576p)
+https://mfe01.tring.al/delta/105/out/u/581_1.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/pppl7yG.png" group-title="Lifestyle",Living HD (720p)
+https://mfe01.tring.al/delta/106/out/u/894_1.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BB;BR;BG;KH;CA;CL;CO;DK;EG;FI;FR;GE;DE;GR;HK;HU;IN;ID;IR;IQ;IL;KW;MX;MN;MA;NL;OM;PE;SK;SD;SE;AE;VN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined;FRANCE;MEXICO",NDR Fernsehen International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gtZLzxq.png" group-title="News",Neser TV (1080p)
+https://protokolldns.xyz/ntv/livestream9956544786625444/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Undefined",News 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" group-title="News",Panorama TV (720p)
+http://198.244.188.94/panorama/livestream/playlist.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="Undefined",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="General",RTSH 1 (540p)
+https://mfe01.tring.al/delta/105/out/u/643_1.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;GE;DE;GR;HU;IT;SK;CH" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General;ITALY",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Undefined",TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/TsaxrnX.png" group-title="Movies",Tring Classic
+https://mfe01.tring.al/delta/106/out/u/1114_3.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/04E1576.png" group-title="Movies",Tring Collection
+https://mfe01.tring.al/delta/106/out/u/1117_3.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/iwR2big.png" group-title="Movies",Tring Fantasy
+https://mfe01.tring.al/delta/106/out/u/1115_3.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/iwR2big.png" group-title="Movies",Tring Fantasy (SD)
+https://mfe01.tring.al/delta/106/out/u/1116_3.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://www.tring.al/wp-content/uploads/2021/09/novelas.png" group-title="Undefined",Tring Novelas (720p)
+https://mfe01.tring.al/delta/106/out/u/1126_3.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://www.tring.al/wp-content/uploads/2018/12/super.png" group-title="Movies",Tring Super (1080p)
+https://mfe01.tring.al/delta/106/out/u/890_1.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/VrXyMt5.png" group-title="Kids",Tring Tring (1080p)
+https://mfe01.tring.al/delta/106/out/u/898_3.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Tëvë1
+https://mfe01.tring.al/delta/105/out/u/694_1.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="Undefined",Vizion Plus
+https://mfe01.tring.al/delta/105/out/u/618_13.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;BH;BG;KH" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News",WION (1080p)
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BB;BR;BG;KH;CA;CL;CO;DK;FI;HU;IR;IL;MN;PH;ES;TH" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="News;SPAIN",WION (1080p)
+https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Undefined",Zjarr TV
+https://mfe01.tring.al/delta/106/out/u/284_1.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Undefined",Zjarr TV (alt)
+https://mfe01.tring.al/delta/106/out/u/285_1.m3u8?checkedby:iptvcat.org
